@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <conio.h>
 
 int convertBinary1(int n);
 int convertBinary2(FILE *file,int n);
