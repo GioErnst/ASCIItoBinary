@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <conio.h>
 int convertBinario(int n){
    if(n == 0)
         return 0;
